@@ -1,0 +1,58 @@
+1. Instance Variables (Non-Static Fields)
+
+    Instance variables are declared inside a class but outside any method. They represent the "state" of an object.
+
+    Scope: Accessible by all methods in the class.
+
+    Lifetime: They are created when an object is instantiated (using new) and destroyed when the object is garbage collected.
+
+    Key Characteristic: Each object has its own copy. If you have two Car objects, one can be "Red" and the other "Blue."
+    
+    class Car {
+    String color; // Instance variable
+    }
+
+
+2. Class Variables (Static Fields)
+    
+    Class variables are declared with the static keyword inside a class but outside any method.
+    
+    Scope: Accessible by all methods in the class.
+    
+    Lifetime: They are created when the program starts (or when the class is first loaded) and exist until the program stops.
+    
+    Key Characteristic: There is only one copy shared by all instances of the class. If one object changes a static variable, it changes for every other object of that class.
+    
+    class Car {
+    static int numberOfWheels = 4; // Class variable (shared by all cars)
+    }
+
+
+3. Local Variables
+    
+    Local variables are declared inside a method, constructor, or a block of code (like a loop).
+    
+    Scope: Only visible within the specific method or block where they are defined.
+    
+    Lifetime: They are created when the method is called and destroyed as soon as the method finishes.
+    
+    Initialization: Unlike instance/class variables, local variables do not get a default value. You must initialize them before use, or the code won't compile.
+    
+    void drive() {
+    int speed = 60; // Local variable
+    System.out.println(speed);
+    }
+
+
+4. Parameters
+
+    Parameters (or Arguments) are the variables listed in a method's definition. They act as "placeholders" for values passed into the method.
+    
+    Scope: Entirely local to the method they belong to.
+    
+    Role: They allow you to pass data from one part of the program into a specific behavior.
+    
+    void setSpeed(int newSpeed) { 
+    // 'newSpeed' is a parameter
+    System.out.println("Setting speed to: " + newSpeed);
+    }

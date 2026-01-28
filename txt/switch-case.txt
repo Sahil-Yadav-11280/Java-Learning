@@ -1,0 +1,18 @@
+1. yield keyword:
+    - used to return a value in switch case
+    - used in blocks for the case of arrows cases
+    - break is not used when yield is used
+
+2. arrow cases (->):
+    - no break is required after expression
+    - used in modern programs
+    - returns directly or uses yield for blocks
+
+3. colon cases (:) :
+    - break is used for each case
+    - traditional
+    - uses yield to return values
+    - break and yield are mutually exclusive
+
+4. enum:
+    - special datatype to define a collection of fixed constants
