@@ -10,5 +10,6 @@ public class varkeyword {
 
         // ex->
         var message = "Hellow";
+        message = "Sahil";
     }
 }

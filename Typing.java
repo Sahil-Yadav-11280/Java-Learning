@@ -16,6 +16,7 @@ public class Typing {
 
             // 3. Int to Double (primitive to primitive -> typecasting)
             int val = 34;
+            // (double) val
             double val_doub = (double) val;
 
             // 4. Double to Int (primitive to primitive -> typecasting)

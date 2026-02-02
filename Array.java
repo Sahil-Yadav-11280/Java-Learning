@@ -172,9 +172,5 @@ public class Array {
                     .filter(s -> s>80)
                     .sum();
         System.out.println("sum of scores above 80: " + sum);
-
-        
-
-
     }
 }

@@ -17,7 +17,7 @@
     
     Class variables are declared with the static keyword inside a class but outside any method.
     
-    Scope: Accessible by all methods in the class.
+    Scope: Accessible by all static methods in the class.
     
     Lifetime: They are created when the program starts (or when the class is first loaded) and exist until the program stops.
     

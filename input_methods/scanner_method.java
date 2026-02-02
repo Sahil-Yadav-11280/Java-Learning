@@ -1,4 +1,4 @@
-package input_methods;
+// package input_methods;
 // import scanner class
 // create a scanner object and use it to read inputs
 import java.util.Scanner;
