@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="Moved to IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/Multitasking/RunnableMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multitasking/ThreadLearn.java" afterDir="false" />
+    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="Added methods to ceate a thread">
+      <change afterPath="$PROJECT_DIR$/src/Multitasking/SleepTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multitasking/experimental.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/Multitasking.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops_learning/ref.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -63,6 +62,7 @@
   "keyToString": {
     "Application.RunnableMethod.executor": "Run",
     "Application.ThreadLearn.executor": "Run",
+    "Application.experimental.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +70,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "branch1",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -104,6 +104,7 @@
       <workItem from="1770309093468" duration="1131000" />
       <workItem from="1770310245542" duration="91000" />
       <workItem from="1770310349642" duration="697000" />
+      <workItem from="1770313627630" duration="1652000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to IntelliJ">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770309345613</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added methods to ceate a thread">
+      <option name="closed" value="true" />
+      <created>1770313755150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770313755150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moved to IntelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved to IntelliJ" />
+    <MESSAGE value="Added methods to ceate a thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added methods to ceate a thread" />
   </component>
 </project>
