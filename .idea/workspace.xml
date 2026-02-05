@@ -1,54 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_Objects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionHandling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/First.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Typing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Typing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_class_remover.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_methods/BufferReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_methods/BufferReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_methods/Consolemethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_methods/Consolemethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_methods/scanner_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_methods/scanner_method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Device.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Haki.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/InheritanceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Pirate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Shanks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Smartphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Swordsman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/WifiNetwork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/Yonko.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/abstraction_interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/abstraction_interface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/intheritance_example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/ref.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/ref.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/this_keyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_learning/this_keyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scanner_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/switch_case.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/Variables.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/switch-case.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/varkeyword.java" beforeDir="false" />
+    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="Moved to IntelliJ">
+      <change afterPath="$PROJECT_DIR$/src/Multitasking/RunnableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multitasking/ThreadLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/Multitasking.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multitasking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops_learning/ref.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,29 +23,37 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sahil-Yadav-11280"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sahil-Yadav-11280&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sahil-Yadav-11280/Java-Learning.git",
-    "accountId": "f378111f-ba6d-4105-be86-f6f36a370ed5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sahil-Yadav-11280/Java-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;f378111f-ba6d-4105-be86-f6f36a370ed5&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/Program Files/php-8.5.0/php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="39G4UzWyH3EkK8k9PSVTj0evGz2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -88,6 +61,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RunnableMethod.executor": "Run",
+    "Application.ThreadLearn.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -98,10 +73,16 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/ZZZ/MEXT/Java/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -120,22 +101,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770309092400</updated>
-      <workItem from="1770309093468" duration="103000" />
+      <workItem from="1770309093468" duration="1131000" />
+      <workItem from="1770310245542" duration="91000" />
+      <workItem from="1770310349642" duration="697000" />
     </task>
+    <task id="LOCAL-00001" summary="Moved to IntelliJ">
+      <option name="closed" value="true" />
+      <created>1770309345613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770309345613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved to IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved to IntelliJ" />
   </component>
 </project>
