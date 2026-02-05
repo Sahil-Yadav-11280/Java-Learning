@@ -3,6 +3,7 @@
 // Custom exception:
 class InsufficientFundsException extends Exception{
     private double amountNeeded;
+    private double idkWhat;
 
     public InsufficientFundsException(double amountNeeded){
         super("Transaction failed, you are short by: $" + amountNeeded);
