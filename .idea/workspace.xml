@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="Use of join on 2 threads and state check of threads">
+    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="Controlling Timeline with join on many threads">
+      <change afterPath="$PROJECT_DIR$/src/Multitasking/CounterProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multitasking/MultiStateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multitasking/MultiStateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CounterProblem.executor": "Run",
     "Application.MultiStateTest.executor": "Run",
     "Application.RunnableMethod.executor": "Run",
     "Application.SleepTest.executor": "Run",
@@ -119,7 +120,7 @@
       <workItem from="1770310349642" duration="697000" />
       <workItem from="1770313627630" duration="2912000" />
       <workItem from="1770377245305" duration="931000" />
-      <workItem from="1770384293013" duration="965000" />
+      <workItem from="1770384293013" duration="4914000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to IntelliJ">
       <option name="closed" value="true" />
@@ -153,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770384720098</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Controlling Timeline with join on many threads">
+      <option name="closed" value="true" />
+      <created>1770385294308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770385294308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +211,7 @@
     <MESSAGE value="Added methods to ceate a thread" />
     <MESSAGE value="some crazy examples using multithreading..." />
     <MESSAGE value="Use of join on 2 threads and state check of threads" />
-    <option name="LAST_COMMIT_MESSAGE" value="Use of join on 2 threads and state check of threads" />
+    <MESSAGE value="Controlling Timeline with join on many threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controlling Timeline with join on many threads" />
   </component>
 </project>
