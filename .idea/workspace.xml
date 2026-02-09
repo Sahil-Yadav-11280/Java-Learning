@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="using volatile for instantaneous memory access instead of cache">
-      <change afterPath="$PROJECT_DIR$/src/Multitasking/ThreadPoolExecutor.java" afterDir="false" />
+    <list default="true" id="c7e31093-8429-4bfd-a54f-d162473586e9" name="Changes" comment="Use of threadpool executor to automatically assign tasks to created threads">
+      <change afterPath="$PROJECT_DIR$/src/Multitasking/AwaitTermination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AwaitTermination.executor": "Run",
     "Application.CounterProblem.executor": "Run",
     "Application.MultiStateTest.executor": "Run",
     "Application.RunnableMethod.executor": "Run",
@@ -136,6 +137,7 @@
       <workItem from="1770455392804" duration="1000" />
       <workItem from="1770455855247" duration="277000" />
       <workItem from="1770547358971" duration="3869000" />
+      <workItem from="1770626670665" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to IntelliJ">
       <option name="closed" value="true" />
@@ -201,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770414768240</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Use of threadpool executor to automatically assign tasks to created threads">
+      <option name="closed" value="true" />
+      <created>1770626734233</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770626734233</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +264,7 @@
     <MESSAGE value="Using synchronization to counter the race condition" />
     <MESSAGE value="used static synchronization for static variable's race condition" />
     <MESSAGE value="using volatile for instantaneous memory access instead of cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="using volatile for instantaneous memory access instead of cache" />
+    <MESSAGE value="Use of threadpool executor to automatically assign tasks to created threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use of threadpool executor to automatically assign tasks to created threads" />
   </component>
 </project>
